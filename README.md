@@ -4,14 +4,9 @@
 ScriptLyra™ is a student-founded startup project focused on building creative, technical, and digital solutions.  
 This repository serves as **official public proof of creation, ownership, and authorship** of the ScriptLyra brand, name, and visual assets.
 
-## Founder
-Created and owned by:
-**[Your Full Name]**  
-(Student / Independent Developer)
-
 ## Creation Date
 ScriptLyra was first conceptualized and publicly documented on:
-**📅 Date:** <PUT TODAY’S DATE HERE>
+**Date:** 16/01/2026
 
 ## What this repository contains
 - Official brand name: ScriptLyra™
@@ -30,6 +25,4 @@ ScriptLyra™ is an unregistered trademark claimed under common-law rights.
 ## Copyright Notice
 © 2026 ScriptLyra. All rights reserved.
 
-## Contact
-For permissions or inquiries:
-📧 Email: <your-email@example.com>
+
