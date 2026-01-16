@@ -1,46 +1,35 @@
 # ScriptLyra™
 
-**Official Repository of ScriptLyra**
+## About ScriptLyra
+ScriptLyra™ is a student-founded startup project focused on building creative, technical, and digital solutions.  
+This repository serves as **official public proof of creation, ownership, and authorship** of the ScriptLyra brand, name, and visual assets.
 
----
+## Founder
+Created and owned by:
+**[Your Full Name]**  
+(Student / Independent Developer)
 
-## 📘 About ScriptLyra
+## Creation Date
+ScriptLyra was first conceptualized and publicly documented on:
+**📅 Date:** <PUT TODAY’S DATE HERE>
 
-ScriptLyra is an independent online publishing brand dedicated to the creation, curation, and distribution of books, ideas, and knowledge in digital and print formats.
+## What this repository contains
+- Official brand name: ScriptLyra™
+- Logo and favicon designs
+- Copyright & trademark declarations
+- Public timestamped proof of ownership
 
-The mission of ScriptLyra is to promote thoughtful writing, structured creativity, and meaningful intellectual content for readers worldwide.
+## Brand Usage Notice
+The name **ScriptLyra™**, its logo, favicon, and associated branding assets are proprietary.
+Unauthorized use, reproduction, or misrepresentation is prohibited.
 
----
+## Trademark Notice
+ScriptLyra™ is an unregistered trademark claimed under common-law rights.
+™ symbol is used to assert ownership.
 
-## 🏷 Brand Identity
+## Copyright Notice
+© 2026 ScriptLyra. All rights reserved.
 
-- **Brand Name:** ScriptLyra  
-- **Industry:** Online Publishing  
-- **Core Focus:** Books, Ideas, Knowledge  
-- **Symbol:** Origami Bird (Brand Mark)  
-- **Founded:** 16-01-2026  
-- **Nature:** Independent Publishing Initiative  
-
----
-
-## 🔐 Ownership & Intellectual Property
-
-This repository and all of its contents are the exclusive intellectual property of **ScriptLyra**.
-
-All materials including but not limited to:
-
-- Text  
-- Logos  
-- Graphics  
-- Design Elements  
-- Written Content  
-- Documentation  
-- Brand Assets  
-
-are original works owned and controlled by ScriptLyra.
-
-### © Copyright Notice
-© 2026 MyBrand. All rights reserved.
-Logo and brand name are proprietary.
-
-
+## Contact
+For permissions or inquiries:
+📧 Email: <your-email@example.com>
